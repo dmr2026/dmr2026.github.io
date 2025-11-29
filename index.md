@@ -6,7 +6,7 @@ __DMR 2026 will be held with LREC 2026 in Palma de Mallorca, Spain, May 11-16, 2
 
 ## Shared Task
 
-DMR 2026 features a shared task on Parsing from Raw Text to Uniform Meaning Representation (UMR). The task evaluates approaches to automatic prediction of UMR annotation across typologically diverse languages. For more information, see the [Shared Task](shared-task) page.
+DMR 2026 features a shared task on Parsing to Uniform Meaning Representation (UMR). The task evaluates approaches to automatic prediction of UMR annotation across typologically diverse languages. Registration is now open via [Google form](https://forms.gle/pc2c7A27TxeHjRKZ7). For more information, see the [Shared Task](shared-task) page or the official shared task website at [Charles University](https://ufal.mff.cuni.cz/umr-parsing).
 
 ## Important Dates
 
