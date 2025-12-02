@@ -10,14 +10,13 @@ DMR 2026 features a shared task on Parsing to Uniform Meaning Representation (UM
 
 ## Important Dates
 
-| Direct submission deadline     | TBD     |
-|:------------------------------:|:-------:|
-| __ARR commitment deadline__    | __TBD__ |
-| __Notification of acceptance__ | __TBD__ |
-| __Camera-ready papers due__    | __TBD__ |
+| Paper submission deadline      | February 28, 2026   |
+|:------------------------------:|:-------------------:|
+| __Notification of acceptance__ | __March 20, 2026__  |
+| __Camera-ready papers due__    | __March 30, 2026__  |
 | __Workshop date__              | __May 11-16, 2026__ |
 
-All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
+All deadlines are 23:59 AoE.
 
 ## Call for Papers
 

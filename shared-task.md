@@ -6,12 +6,14 @@ DMR 2026 features a shared task evaluating approaches to automatic prediction of
 
 ### Timeline
 
-| Training/development data release | February 1, 2026 |
-|:----------------------------------|:-----------------|
-| **Test phase**                    | **February 16 - 27, 2026** |
-| **Results announcement**          | **March 1, 2026** |
-| **Paper writing period**          | **March 2 - 15, 2026** |
-| **Review period**                 | **March 16 - 22, 2026** |
+| Training + development data available | February 1, 2026 |
+|:--------------------------------------|:-----------------|
+| **Blind test data available. Test phase starts.** | **February 16, 2026** |
+| **Submission of system outputs. Test phase ends.** | **February 27, 2026** |
+| **Announcement of the results**       | **March 1, 2026** |
+| **System description papers due**     | **March 15, 2026** |
+| **Reviews of system description papers due** | **March 22, 2026** |
+| **Camera-ready papers due**           | **March 30, 2026** |
 
 ### Data
 
