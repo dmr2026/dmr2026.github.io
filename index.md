@@ -37,3 +37,7 @@ The workshop solicits papers that address one or more of the following topics:
 - Meaning representation evaluation metrics;
 - Cross-framework comparison of meaning representations and their formal properties;
 - Any other topics that address the design, processing, and use of meaning representations.
+
+## Contact
+
+For any questions regarding the workshop, please contact us at [dmr.workshop.2026@gmail.com](mailto:dmr.workshop.2026@gmail.com).
