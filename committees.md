@@ -20,6 +20,7 @@
 - Richard Brutti, Brandeis University
 - Nathan Schneider, Georgetown University
 - Bin Li, Nanjing Normal University
+- Zhixing Xu, Nanjing Normal University
 - Haibo Sun, Brandeis University
 - Alastair Butler, Hirosaki University
 - Annie Zaenen, Stanford
