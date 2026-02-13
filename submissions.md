@@ -18,7 +18,7 @@ We accept long papers (describing substantial original research) of up to eight 
 - [Citation and Comparison](https://aclrollingreview.org/cfp#citation-and-comparison)
 - [Ethics Policy](https://aclrollingreview.org/cfp#ethics-policy) (although note that we do not require completion of the responsible NLP research checklist)
 
-Paper submissions must use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+Paper submissions must use the official LREC-COLING 2026 style templates, which are available at the [Author's Kit](https://lrec2026.info/authors-kit/) page (an [Overleaf template](https://www.overleaf.com/project/6887c0280bfaab6e3e8bd0bc) is also available). Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 ## Dual Submission Policy
 
