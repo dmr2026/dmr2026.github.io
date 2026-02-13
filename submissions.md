@@ -12,7 +12,7 @@ Submission details will be announced soon. DMR 2026 will use the START Conferenc
 
 ## Paper Submission and Templates
 
-We accept long papers (describing substantial original research) of up to eight (8) pages and short papers (making a small, focused contribution) of up to four (4) pages. If a paper is accepted, the authors will be given an additional page to address reviewers' comments in the final version. The ethics statement (optional), limitations (optional), references, and appendices do not count against these limits. Papers should adhere to the following guidelines:
+We accept long papers (describing substantial original research) of up to eight (8) pages and short papers (making a small, focused contribution) of up to four (4) pages. If a paper is accepted, the authors will be given an additional page to address reviewers' comments in the final version. The ethics statement (optional), limitations (optional), references, and appendices do not count against these limits. Appendices are intended to provide supplementary materials such as detailed annotations, tools, examples, or extended analyses. Reviewers are not required to read appendices, and the core contribution of the paper must be fully contained within the main text. Papers should adhere to the following guidelines:
 - All papers must be anonymized to support double-blind reviewing. Submissions must not include authors' names and affiliations, and should avoid links to non-anonymized repositories. Self-references that reveal the author(s) should be avoided.
 - Papers must present original, previously unpublished work.
 - Please refer to the [LREC-COLING 2026 Author's Kit](https://lrec2026.info/authors-kit/) for detailed formatting and submission guidelines.
