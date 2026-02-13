@@ -13,10 +13,9 @@ Submission details will be announced soon. DMR 2026 will use the START Conferenc
 ## Paper Submission and Templates
 
 We accept long papers (describing substantial original research) of up to eight (8) pages and short papers (making a small, focused contribution) of up to four (4) pages. If a paper is accepted, the authors will be given an additional page to address reviewers' comments in the final version. The ethics statement (optional), limitations (optional), references, and appendices do not count against these limits. Papers should adhere to the following guidelines:
-- [Instructions for Two-Way Anonymized Review](https://aclrollingreview.org/cfp#instructions-for-two-way-anonymized-review)
-- [Authorship](https://aclrollingreview.org/cfp#authorship)
-- [Citation and Comparison](https://aclrollingreview.org/cfp#citation-and-comparison)
-- [Ethics Policy](https://aclrollingreview.org/cfp#ethics-policy) (although note that we do not require completion of the responsible NLP research checklist)
+- All papers must be anonymized to support double-blind reviewing. Submissions must not include authors' names and affiliations, and should avoid links to non-anonymized repositories. Self-references that reveal the author(s) should be avoided.
+- Papers must present original, previously unpublished work.
+- Please refer to the [LREC-COLING 2026 Author's Kit](https://lrec2026.info/authors-kit/) for detailed formatting and submission guidelines.
 
 Paper submissions must use the official LREC-COLING 2026 style templates, which are available at the [Author's Kit](https://lrec2026.info/authors-kit/) page (an [Overleaf template](https://www.overleaf.com/project/6887c0280bfaab6e3e8bd0bc) is also available). Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
