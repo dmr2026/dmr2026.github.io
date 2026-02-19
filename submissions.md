@@ -8,7 +8,7 @@
 
 All deadlines are 23:59 AoE.
 
-Submission details will be announced soon. DMR 2026 will use the START Conference Manager system for paper submissions.
+Please submit your papers through the [START Conference Manager](https://softconf.com/lrec2026/DMR2026/).
 
 ## Paper Submission and Templates
 
