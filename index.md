@@ -2,7 +2,7 @@ __Welcome to DMR 2026, the 7th International Workshop on Designing Meaning Repre
 
 ![Mallorca](assets/Mallorca.jpg)
 
-__DMR 2026 will be held with LREC 2026 in Palma de Mallorca, Spain, May 11-16, 2026.__
+__DMR 2026 will be held with LREC 2026 in Palma de Mallorca, Spain, May 11, 2026.__
 
 ## Shared Task
 
@@ -10,11 +10,11 @@ DMR 2026 features a shared task on Parsing to Uniform Meaning Representation (UM
 
 ## Important Dates
 
-| Paper submission deadline      | February 28, 2026   |
+| Paper submission deadline      | ~~February 28, 2026~~ __March 6, 2026 (Extended)__   |
 |:------------------------------:|:-------------------:|
 | __Notification of acceptance__ | __March 20, 2026__  |
 | __Camera-ready papers due__    | __March 30, 2026__  |
-| __Workshop date__              | __May 11-16, 2026__ |
+| __Workshop date__              | __May 11, 2026__ |
 
 All deadlines are 23:59 AoE.
 
