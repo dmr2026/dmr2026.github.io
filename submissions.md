@@ -2,7 +2,8 @@
 
 | Paper submission deadline      | ~~February 28, 2026~~ __March 6, 2026 (Extended)__   |
 |:------------------------------:|:-------------------:|
-| __Notification of acceptance__ | __March 20, 2026__  |
+| __Review deadline__            | __March 24, 2026__  |
+| __Notification of acceptance__ | ~~March 20, 2026~~ __March 25, 2026__  |
 | __Camera-ready papers due__    | __March 30, 2026__  |
 | __Workshop date__              | __May 11, 2026__ |
 
