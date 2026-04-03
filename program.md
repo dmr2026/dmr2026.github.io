@@ -9,7 +9,7 @@
 
 **9:00 – 9:10 &nbsp; Opening Remarks**
 
-**9:10 – 10:25 &nbsp; Oral Session 1: AMR and Extensions** *(3 papers &times; 25 min)*
+**9:10 – 10:25 &nbsp; Oral Session 1** *(3 papers &times; 25 min)*
 
 | Time | Paper |
 |:-----|:------|
@@ -56,7 +56,7 @@
 | **Moderator** | James Pustejovsky |
 | **Panelists** | Louise McNally, German Rigau, Jan Hajič, Susan Windisch Brown, Claire Bonial |
 
-**15:30 – 15:55 &nbsp; Oral Session 2: Annotation**
+**15:30 – 15:55 &nbsp; Oral Session 2**
 
 | Time | Paper |
 |:-----|:------|
@@ -64,7 +64,7 @@
 
 **16:00 – 16:30 &nbsp; Coffee Break**
 
-**16:30 – 17:20 &nbsp; Oral Session 3: UMR and Compositional Semantics** *(2 papers &times; 25 min)*
+**16:30 – 17:20 &nbsp; Oral Session 3** *(2 papers &times; 25 min)*
 
 | Time | Paper |
 |:-----|:------|
