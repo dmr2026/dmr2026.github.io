@@ -25,10 +25,8 @@
 | 2 | **Named Entity Recognition for Persian Literary Text: A Case Study on The Little Prince** <br> *Minoo Nassajian, Joakim Nivre and Daniel Zeman* |
 | 3 | **Towards Consistent UMR Annotation of Deverbal Nouns: Evidence from Czech and Latin** <br> *Hana Hledíková, Federica Gamba, Marketa Lopatkova and Jan Štěpánek* |
 | 4 | **SAVI: Web-based Multilayered Semantic Annotation Validation Interface** <br> *Sashank Tatavolu, Soma Soma, Pratibha Rani and Sukhada Sukhada* |
-| 5 | **Finding Meaning in Embeddings: Concept Separation Curves** <br> *Paul Keuren, Marc Ponsen and Robert Ayoub Bagheri* |
-| 6 | **Extracting First Order Logic Formulas from Graphical Semantic Representations** <br> *Rémi de Vergnette, Vincent Tourneur and Maxime Amblard* |
-| 7 | **Meaning Representations as Variational Quantum Circuits** <br> *Tilen Gaetano Limbäck-Stokin, Tanishka A. Birdavade, Kin Ian Lo and Mehrnoosh Sadrzadeh* |
-| 8 | **Superframes: A Schema for Lexicon-free Frame-semantic Annotation** <br> *Kilian Evang* |
+| 5 | **Extracting First Order Logic Formulas from Graphical Semantic Representations** <br> *Rémi de Vergnette, Vincent Tourneur and Maxime Amblard* |
+| 6 | **Superframes: A Schema for Lexicon-free Frame-semantic Annotation** <br> *Kilian Evang* |
 
 **11:30 – 12:45 &nbsp; Shared Task Session: UMR Parsing**
 
