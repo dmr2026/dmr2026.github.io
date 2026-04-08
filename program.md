@@ -9,7 +9,8 @@
 
 **9:00 – 9:10 &nbsp; Opening Remarks**
 
-**9:10 – 10:25 &nbsp; Oral Session 1** *(3 papers &times; 25 min)*
+**9:10 – 10:25 &nbsp; Oral Session 1** *(3 papers &times; 25 min)* <br>
+**Session Chair: Jim Martin**
 
 | Time | Paper |
 |:-----|:------|
@@ -17,7 +18,8 @@
 | 9:35 – 10:00 | **Adding Aspectual Information to Structured Meaning Representations** <br> *Claire Benet Post, Paul Bontempo, August Ulfelder Milliken, Alvin Po-Chun Chen, Nicholas Derby, Saksham Khatwani, Sumeyye Nabieva, Karthik Sairam and Alexis Palmer* |
 | 10:00 – 10:25 | **Modelling Idiomatic Expressions in Abstract Meaning Representation** <br> *Venera Gareeva and Johannes Heinecke* |
 
-**10:30 – 11:30 &nbsp; Coffee Break & Poster Session**
+**10:30 – 11:30 &nbsp; Coffee Break & Poster Session** <br>
+**Session Chair: Claire Benet Post**
 
 | # | Poster |
 |:--|:-------|
@@ -28,7 +30,8 @@
 | 5 | **Extracting First Order Logic Formulas from Graphical Semantic Representations** <br> *Rémi de Vergnette, Vincent Tourneur and Maxime Amblard* |
 | 6 | **Superframes: A Schema for Lexicon-free Frame-semantic Annotation** <br> *Kilian Evang* |
 
-**11:30 – 12:45 &nbsp; Shared Task Session: UMR Parsing**
+**11:30 – 12:45 &nbsp; Shared Task Session: UMR Parsing** <br>
+**Session Chair: Dan Zeman**
 
 | Time | Presentation |
 |:-----|:-------------|
@@ -47,14 +50,16 @@
 
 ### Afternoon Session
 
-**14:00 – 15:30 &nbsp; Panel: "The Role of Symbolic Representations in the Era of LLMs"**
+**14:00 – 15:30 &nbsp; Panel: "The Role of Symbolic Representations in the Era of LLMs"** <br>
+**Session Chair: James Pustejovsky**
 
 | | |
 |:--|:--|
 | **Moderator** | James Pustejovsky |
 | **Panelists** | Louise McNally, German Rigau, Jan Hajič, Susan Windisch Brown, Claire Bonial |
 
-**15:30 – 15:55 &nbsp; Oral Session 2**
+**15:30 – 15:55 &nbsp; Oral Session 2** <br>
+**Session Chair: Jan Štěpánek**
 
 | Time | Paper |
 |:-----|:------|
@@ -62,13 +67,15 @@
 
 **16:00 – 16:30 &nbsp; Coffee Break**
 
-**16:30 – 17:20 &nbsp; Oral Session 3** *(2 papers &times; 25 min)*
+**16:30 – 17:20 &nbsp; Oral Session 3** *(2 papers &times; 25 min)* <br>
+**Session Chair: Claire Benet Post**
 
 | Time | Paper |
 |:-----|:------|
 | 16:30 – 16:55 | **Extending Uniform Meaning Representation to Persian: The First Corpus Resource** <br> *Minoo Nassajian and Daniel Zeman* |
 | 16:55 – 17:20 | **Regression-Tested Compositional Semantics: A Graphical Development Environment for Glue and Description-by-Analysis** <br> *Mark-Matthias Zymla and Kascha Kruschwitz* |
 
-**17:20 – 17:45 &nbsp; Open Discussion**
+**17:20 – 17:45 &nbsp; Open Discussion** <br>
+**Session Chair: Claire Benet Post**
 
 **17:45 – 18:00 &nbsp; Closing Remarks**
