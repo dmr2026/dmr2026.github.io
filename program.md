@@ -33,7 +33,7 @@
 | 8 | **Superframes: A Schema for Lexicon-free Frame-semantic Annotation** <br> *Kilian Evang* |
 
 **11:30 – 12:45 &nbsp; Shared Task Session: UMR Parsing** <br>
-**Session Chair: Dan Zeman**
+**Session Chairs: Dan Zeman and Claire Benet Post**
 
 | Time | Presentation |
 |:-----|:-------------|
@@ -61,7 +61,7 @@
 | **Panelists** | Louise McNally, German Rigau, Jan Hajič, Susan Windisch Brown, Claire Bonial |
 
 **15:30 – 15:55 &nbsp; Oral Session 2** <br>
-**Session Chair: Jan Štěpánek**
+**Session Chair: Dan Zeman**
 
 | Time | Paper |
 |:-----|:------|
