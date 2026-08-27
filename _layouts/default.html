@@ -10,26 +10,60 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      header .view a.current { font-weight: 700; }
+      header .edition-switch { margin-top: 2em; font-size: 0.8em; }
+      .notice {
+        border-left: 4px solid #f3a536;
+        background: #fdf6e7;
+        padding: 0.8em 1em;
+        margin: 0 0 1.5em 0;
+      }
+      .notice p:last-child { margin-bottom: 0; }
+      .archive-note {
+        border-left: 4px solid #ccc;
+        background: #f5f5f5;
+        padding: 0.8em 1em;
+        margin: 0 0 1.5em 0;
+      }
+      .archive-note p:last-child { margin-bottom: 0; }
+      table td, table th { vertical-align: top; }
+    </style>
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {%- assign ed = nil -%}
+        {%- if page.edition -%}
+          {%- for e in site.data.editions -%}
+            {%- if e.year == page.edition -%}{%- assign ed = e -%}{%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        {%- if ed -%}
+        <h1><a href="{{ ed.url | relative_url }}">DMR {{ ed.year }}</a></h1>
+        <p>The {{ ed.ordinal }} International Workshop on<br>Designing Meaning Representations</p>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {%- for item in ed.nav %}
+        <p class="view"><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="current"{% endif %}>{{ item.title }}</a></p>
+        {%- endfor %}
 
-        <p class="view"><a href="index">Home</a></p>
-        <p class="view"><a href="committees">Committees</a></p>
-        <p class="view"><a href="program">Program</a></p>
-        <p class="view"><a href="shared-task">Shared Task</a></p>
-        <p class="view"><a href="submissions">Submissions</a></p>
-        <p class="view"><a href="venue">Venue</a></p>
+        <div class="edition-switch">
+          <p class="view"><a href="{{ "/" | relative_url }}">&larr; All DMR editions</a></p>
+        </div>
+        {%- else -%}
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
 
+        <p class="view"><a href="{{ "/" | relative_url }}"{% if page.url == "/" %} class="current"{% endif %}>Home</a></p>
+        {%- for e in site.data.editions -%}
+        {%- if e.local %}
+        <p class="view"><a href="{{ e.url | relative_url }}">DMR {{ e.year }}{% if e.status == "upcoming" %} (upcoming){% endif %}</a></p>
+        {%- endif -%}
+        {%- endfor %}
+        <p class="view"><a href="{{ "/editions/" | relative_url }}"{% if page.url == "/editions/" %} class="current"{% endif %}>Past Editions</a></p>
+        {%- endif -%}
       </header>
       <section>
 
@@ -37,9 +71,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p><small>DMR &mdash; International Workshop on Designing Meaning Representations</small></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>

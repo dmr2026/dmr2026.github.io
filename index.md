@@ -1,43 +1,42 @@
-__Welcome to DMR 2026, the 7th International Workshop on Designing Meaning Representations!__
+---
+title: "Designing Meaning Representations"
+permalink: /
+---
 
-![Mallorca](assets/Mallorca.jpg)
+# International Workshop on Designing Meaning Representations
 
-__DMR 2026 will be held with LREC 2026 in Palma de Mallorca, Spain, May 11, 2026.__
+DMR brings together researchers who are producers and consumers of meaning representations. The workshop is a
+venue for presenting new frameworks and critically examining existing ones — their design, annotation,
+parsing, generation, evaluation, and use in downstream applications — with the goal of informing the design of
+next-generation meaning representations. A recurring theme is the relationship between distributed
+representations learned by neural models and the symbolic meaning representations designed and annotated by
+researchers.
 
-## Shared Task
+{% assign upcoming = site.data.editions | where: "status", "upcoming" | first %}
+{% if upcoming %}
+<div class="notice" markdown="1">
+### Current edition: [DMR {{ upcoming.year }}]({{ upcoming.url | relative_url }})
 
-DMR 2026 features a shared task on Parsing to Uniform Meaning Representation (UMR). The task evaluates approaches to automatic prediction of UMR annotation across typologically diverse languages. Registration is now open via [Google form](https://forms.gle/pc2c7A27TxeHjRKZ7). For more information, see the [Shared Task](shared-task) page or the official shared task website at [Charles University](https://ufal.mff.cuni.cz/umr-parsing).
+**{{ upcoming.ordinal }} International Workshop on Designing Meaning Representations**{% if upcoming.theme %}<br>
+*{{ upcoming.theme }}*{% endif %}
 
-## Important Dates
+Venue and dates: {{ upcoming.date }}. See the [call for papers]({{ upcoming.url | relative_url }}) for the
+workshop topic, scope, and organizers.
+</div>
+{% endif %}
 
-| Paper submission deadline      | ~~February 28, 2026~~ __March 6, 2026 (Extended)__   |
-|:------------------------------:|:-------------------:|
-| __Review deadline__            | __March 24, 2026__  |
-| __Notification of acceptance__ | ~~March 20, 2026~~ __March 25, 2026__  |
-| __Camera-ready papers due__    | __March 30, 2026__  |
-| __Workshop date__              | __May 11, 2026__ |
+## Editions
 
-All deadlines are 23:59 AoE.
+| Edition | Workshop | Co-located with | Location | Proceedings |
+|:--|:--|:--|:--|:--|
+{%- for e in site.data.editions %}
+| {{ e.ordinal }} | {% if e.url %}[DMR {{ e.year }}]({{ e.url | relative_url }}){% else %}DMR {{ e.year }}{% endif %} | {{ e.colocated | default: "—" }} | {{ e.location }} | {% if e.proceedings %}[ACL Anthology]({{ e.proceedings }}){% else %}—{% endif %} |
+{%- endfor %}
 
-## Call for Papers
-
-DMR 2026 invites the submissions of long and short papers about original works on the design, processing, and use of meaning representations. While deep learning methods have led to many breakthroughs in practical natural language applications, there is still a sense among many NLP researchers that we have a long way to go before we can develop systems that can actually "understand" human language and explain the decisions they make. Indeed, "understanding" natural language entails many different human-like capabilities, and they include but are not limited to the ability to track entities in a text, understand the relations between these entities, track events and their participants described in a text, understand how events unfold in time, and distinguish events that have actually happened from events that are planned or intended, are uncertain, or did not happen at all. We believe a critical step in achieving natural language understanding is to design meaning representations for text that have the necessary meaning "ingredients" that help us achieve these capabilities. Such meaning representations can also potentially be used to evaluate the compositional generalization capacity of deep learning models.
-
-There has been a growing body of research devoted to the design, annotation, and parsing of meaning representations in recent years. In particular, formal meaning representation frameworks such as Minimal Recursion Semantics (MRS) and Discourse Representation Theory are developed with the goal of supporting logical inference in reasoning-based AI systems and are therefore easily translatable into first-order logic, while other meaning representation frameworks such as Abstract Meaning Representation (AMR), Uniform Meaning Representation (UMR), Tecto-grammatical Representation (TR) in Prague Dependency Treebanks and the Universal Conceptual Cognitive Annotation (UCCA), put more emphasis on the representation of core predicate-argument structure. The automatic parsing of natural language text into these meaning representations and the generation of natural language text from these meaning representations are also very active areas of research, and a wide range of technical approaches and learning methods have been applied to these problems.
-
-DMR intends to bring together researchers who are producers and consumers of meaning representations and, through their interaction, gain a deeper understanding of the key elements of meaning representations that are the most valuable to the NLP community. The workshop will provide an opportunity for meaning representation researchers to present new frameworks and to critically examine existing frameworks with the goal of using their findings to inform the design of next-generation meaning representations. One particular goal is to understand the relationship between distributed meaning representations trained on large data sets using network models and the symbolic meaning representations that are carefully designed and annotated by NLP researchers, with an aim of gaining a deeper understanding of areas where each type of meaning representation is the most effective.
-
-The workshop solicits papers that address one or more of the following topics:
-- Development and annotation of meaning representations;
-- Challenges and techniques in leveraging meaning representations for downstream applications, including neuro-symbolic approaches;
-- The relationship between symbolic meaning representations and distributed semantic representations;
-- Issues in applying meaning representations to multilingual settings and lower-resourced languages;
-- Challenges and techniques in automatic parsing of meaning representations;
-- Challenges and techniques in automatically generating text from meaning representations;
-- Meaning representation evaluation metrics;
-- Cross-framework comparison of meaning representations and their formal properties;
-- Any other topics that address the design, processing, and use of meaning representations.
+There was no DMR workshop in 2022. Details on each past edition, including the joint LAW–DMR 2021 workshop,
+are on the [past editions]({{ '/editions/' | relative_url }}) page.
 
 ## Contact
 
-For any questions regarding the workshop, please contact us at [dmr.workshop.2026@gmail.com](mailto:dmr.workshop.2026@gmail.com).
+Questions about the upcoming edition should be directed to the
+[DMR {{ upcoming.year }} organizers]({{ '/2027/committees/' | relative_url }}).

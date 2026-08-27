@@ -1,3 +1,13 @@
+---
+title: "Submissions"
+edition: 2026
+permalink: /2026/submissions/
+---
+
+<div class="archive-note" markdown="1">
+This page is an archived record of DMR 2026, held on May 11, 2026 with LREC 2026 in Palma de Mallorca.
+</div>
+
 ## Important Dates
 
 | Paper submission deadline      | ~~February 28, 2026~~ __March 6, 2026 (Extended)__   |

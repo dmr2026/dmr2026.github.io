@@ -1,0 +1,96 @@
+# One entry per DMR edition, newest first.
+# Editions with `local: true` have their own pages inside this repository.
+
+- year: 2027
+  ordinal: Eighth
+  status: upcoming
+  theme: "Meaning Representations for Neuro-Symbolic Language Intelligence"
+  colocated: "To be announced"
+  location: "To be announced"
+  date: "To be announced"
+  local: true
+  url: /2027/
+  nav:
+    - title: Home
+      url: /2027/
+    - title: Committees
+      url: /2027/committees/
+    - title: Submissions
+      url: /2027/submissions/
+    - title: Venue
+      url: /2027/venue/
+
+- year: 2026
+  ordinal: Seventh
+  status: past
+  colocated: "LREC 2026"
+  location: "Palma de Mallorca, Spain"
+  date: "May 11, 2026"
+  local: true
+  url: /2026/
+  proceedings: https://aclanthology.org/volumes/2026.dmr-1/
+  nav:
+    - title: Home
+      url: /2026/
+    - title: Committees
+      url: /2026/committees/
+    - title: Program
+      url: /2026/program/
+    - title: Shared Task
+      url: /2026/shared-task/
+    - title: Submissions
+      url: /2026/submissions/
+    - title: Venue
+      url: /2026/venue/
+
+- year: 2025
+  ordinal: Sixth
+  status: past
+  colocated: "SyntaxFest 2025"
+  location: "Prague, Czechia"
+  date: "August 2025"
+  url: https://dmr2025.github.io/
+  proceedings: https://aclanthology.org/volumes/2025.dmr-1/
+
+- year: 2024
+  ordinal: Fifth
+  status: past
+  colocated: "LREC-COLING 2024"
+  location: "Torino, Italy"
+  date: "May 2024"
+  url: https://dmr2024.github.io/
+  proceedings: https://aclanthology.org/volumes/2024.dmr-1/
+
+- year: 2023
+  ordinal: Fourth
+  status: past
+  colocated: "IWCS 2023"
+  location: "Nancy, France"
+  date: "June 2023"
+  url: https://dmr2023.github.io/
+  proceedings: https://aclanthology.org/volumes/2023.dmr-1/
+
+- year: 2021
+  ordinal: Third
+  status: past
+  note: "Held jointly with the 15th Linguistic Annotation Workshop (LAW-DMR 2021)"
+  colocated: "EMNLP 2021"
+  location: "Punta Cana, Dominican Republic"
+  date: "November 2021"
+  proceedings: https://aclanthology.org/volumes/2021.law-1/
+
+- year: 2020
+  ordinal: Second
+  status: past
+  colocated: "COLING 2020"
+  location: "Barcelona, Spain (online)"
+  date: "December 2020"
+  proceedings: https://aclanthology.org/volumes/2020.dmr-1/
+
+- year: 2019
+  ordinal: First
+  status: past
+  colocated: "ACL 2019"
+  location: "Florence, Italy"
+  date: "August 2019"
+  proceedings: https://aclanthology.org/volumes/W19-33/

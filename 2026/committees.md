@@ -1,3 +1,13 @@
+---
+title: "Committees"
+edition: 2026
+permalink: /2026/committees/
+---
+
+<div class="archive-note" markdown="1">
+This page is an archived record of DMR 2026, held on May 11, 2026 with LREC 2026 in Palma de Mallorca.
+</div>
+
 ## Workshop Chairs
 
 - Jin Zhao, Brandeis University

@@ -1,3 +1,13 @@
+---
+title: "Shared Task"
+edition: 2026
+permalink: /2026/shared-task/
+---
+
+<div class="archive-note" markdown="1">
+This page is an archived record of DMR 2026, held on May 11, 2026 with LREC 2026 in Palma de Mallorca.
+</div>
+
 ## Shared Task: Parsing to Uniform Meaning Representation
 
 DMR 2026 features a shared task evaluating approaches to automatic prediction of UMR annotation, including sentence graph structure, node attributes, alignment with surface text, and document-level relations. UMR is a relatively new formalism designed for multilingual semantic representation across typologically diverse languages. While based on AMR, it differs substantially, and parsing into UMR remains largely unexplored compared to AMR, which was the focus of CoNLL shared tasks in 2019 and 2020.
