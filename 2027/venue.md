@@ -17,3 +17,6 @@ contribute questions to the panel discussion on equal terms.
 
 Previous editions were co-located with ACL, COLING, EMNLP, IWCS, LREC, LREC-COLING, and SyntaxFest — see
 [past editions]({{ '/editions/' | relative_url }}).
+
+Questions about the venue can be sent to
+[dmrworkshopofficial@gmail.com](mailto:dmrworkshopofficial@gmail.com).

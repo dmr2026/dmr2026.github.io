@@ -96,8 +96,28 @@ reasoning*: systems would map text to a structured MR and answer controlled temp
 referential questions, or respond correctly after targeted interventions on the representation. A decision
 will be announced along with the rest of the workshop schedule.
 
+## Diversity, Inclusion, and Broadening Participation
+
+DMR has an inherently multilingual agenda: a central goal of explicit meaning representation is to distinguish
+semantic generalizations from language-specific realization. DMR 2027 actively solicits work on typologically
+diverse and lower-resourced languages, multilingual and cross-lingual representations, signed and multimodal
+communication, and semantic phenomena that are poorly captured by English-centered resources.
+
+We seek broad representation among invited speakers, panelists, and the program committee, with attention to
+gender, geography, career stage, institution type, and linguistic community. Outreach includes ACL affinity
+groups, SIGSEM and related SIGs, regional NLP communities, and researchers developing resources for
+underrepresented languages. We encourage student submissions and, where feasible, will offer mentoring to
+first-time workshop authors. Remote presentation options are intended to reduce geographic and financial
+barriers to participation.
+
+## About DMR
+
+DMR 2027 will be the eighth edition of the International Workshop on Designing Meaning Representations.
+Previous editions were held in 2019, 2020, 2021, 2023, 2024, 2025, and 2026, co-located with ACL, COLING,
+EMNLP, IWCS, LREC-COLING, SyntaxFest, and LREC. Proceedings for every edition are listed on the
+[past editions]({{ '/editions/' | relative_url }}) page.
+
 ## Contact
 
-<!-- TODO: replace with the DMR 2027 workshop mailing address once it has been created. -->
-A workshop contact address will be announced with the call for papers. In the meantime, questions can be
-directed to any of the [organizers]({{ '/2027/committees/' | relative_url }}).
+For any questions regarding the workshop, please contact us at
+[dmrworkshopofficial@gmail.com](mailto:dmrworkshopofficial@gmail.com).

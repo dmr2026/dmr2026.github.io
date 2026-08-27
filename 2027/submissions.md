@@ -40,6 +40,14 @@ should avoid links to non-anonymized repositories.
 Papers must use the official style templates of the host conference. Page limits, templates, and the author's
 kit link will be posted here with the call for papers.
 
+## Dual Submission Policy
+
+Dual submissions are allowed. Authors of papers that have been or will be submitted to other meetings or
+publications must inform the organizers at
+[dmrworkshopofficial@gmail.com](mailto:dmrworkshopofficial@gmail.com), listing the names and dates of the
+other venues. Authors of accepted papers must notify the organizers within 5 business days if the paper is
+withdrawn for any reason.
+
 ## Ethical Considerations
 
 Meaning representations and neuro-symbolic systems can increase transparency and verifiability, but they can
@@ -49,3 +57,8 @@ their representations and datasets. Work involving human data, generated content
 is expected to follow [ACL ethics policies](https://www.aclweb.org/portal/content/acl-code-ethics), and
 reviewers will be asked to consider whether claims about interpretability or "reasoning" are supported by
 appropriate evidence.
+
+## Other Questions
+
+If you have any questions, please contact the organizers at
+[dmrworkshopofficial@gmail.com](mailto:dmrworkshopofficial@gmail.com).

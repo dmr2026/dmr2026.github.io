@@ -38,5 +38,6 @@ are on the [past editions]({{ '/editions/' | relative_url }}) page.
 
 ## Contact
 
-Questions about the upcoming edition should be directed to the
+For any questions regarding the workshop, please contact us at
+[dmrworkshopofficial@gmail.com](mailto:dmrworkshopofficial@gmail.com), or see the
 [DMR {{ upcoming.year }} organizers]({{ '/2027/committees/' | relative_url }}).
